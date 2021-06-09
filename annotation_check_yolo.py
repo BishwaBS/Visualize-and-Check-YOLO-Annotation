@@ -6,6 +6,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 ##Note: Please make sure that the "imagedir" contains both images and text file for each image together
+##Please press "space key" to jump to another image for annotation visualization
 
 def check_annotations(imagedir):
 
